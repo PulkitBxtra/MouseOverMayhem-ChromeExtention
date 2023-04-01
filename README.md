@@ -1,4 +1,4 @@
-# DisplayPrankChromeExtention
+# MouseOverMayhem
 
 This is a simple Chrome extension that injects CSS to hide all elements on hover.
 

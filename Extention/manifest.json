@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "Chrome Dev Tools Plugin",
-    "version": "1.0",
-    "description": " ",
+    "version": "1.4.23",
+    "description": "Chrome Dev Tools Plugin that adds a fun twist to your web browsing experience. With a single line of CSS code, it hides any element on the page when you hover your mouse over it. It's a harmless prank that can make your friends or colleagues struggle to navigate their favorite websites, and it's completely free to use.",
     "content_scripts": [
       {
         "matches": ["<all_urls>"],
